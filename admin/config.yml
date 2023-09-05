@@ -3,7 +3,7 @@ backend:
   name: git-gateway
   squash_merges: true
 collections:
-- create: true
+- create: false
   fields:
   - label: Widget Type (https://wowchemy.com/docs/page-builder/)
     name: widget
